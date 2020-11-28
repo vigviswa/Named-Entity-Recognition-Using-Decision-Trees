@@ -1,0 +1,10 @@
+8139	"The <e1>coloring</e1> is derived from the Grand Duke's <e2>coat of arms</e2>."
+Entity-Origin(e1,e2)
+
+
+8134	"After handsome renovations at various locales, the <e1>company</e1> has remodeled a church into a <e2>home</e2>."
+Other
+
+
+8130	"The <e1>laptop</e1> was inside a protective <e2>plastic bag</e2> made from LDPE number 4, which can be easily recycled."
+Content-Container(e1,e2)
