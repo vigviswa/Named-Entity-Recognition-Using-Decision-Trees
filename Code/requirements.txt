@@ -1,0 +1,7 @@
+pandas
+linecache
+nltk
+spacy
+nltk.corpus
+re
+sklearn
