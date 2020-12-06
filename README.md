@@ -1,4 +1,4 @@
-# Named-Entity-Recognition-Using-Decision-Trees
+# Named Entity Recognition Using Decision Trees
 
 This repositiory covers how to extract the Named Entities in the SemEval2010 - Task 8 Dataset. The task has been divided into two parts:
 
