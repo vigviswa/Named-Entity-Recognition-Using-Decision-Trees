@@ -23,9 +23,16 @@ run the Task 1 and Task 2.
 
 3) Save this file in the same directory as the code, i.e., `/Code`.
 
-4) run `pip install -r requirements.txt`
+4) run 
 
-run  `python -m spacy download en_core_web_sm`
+```
+pip install -r requirements.txt
+```
+
+run  
+```
+python -m spacy download en_core_web_sm
+```
 
 To Download all packages and dependencies
 
