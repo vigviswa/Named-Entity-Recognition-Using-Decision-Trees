@@ -1,6 +1,11 @@
 # Named Entity Recognition Using Decision Trees
 
-This repositiory covers how to extract the Named Entities in the SemEval2010 - Task 8 Dataset. The task has been divided into two parts:
+This repositiory covers how to extract the Named Entities in the SemEval2010 - Task 8 Dataset. You can look up the Dataset [here](https://github.com/vigviswa/Named-Entity-Recognition-Using-Decision-Trees/tree/main/data). Also, the SemEval2010 - Task 8 statement can be read [here](https://semeval2.fbk.eu/semeval2.php?location=tasks). 
+
+
+### Quickstart and Summary
+
+For the implementation, the task has been divided into two parts:
 
 ### Part 1 and Part 2:
 
@@ -14,7 +19,7 @@ Creation of the Decision Tree Model to perform the Relation Classification and I
 
 ### Steps to Run the Code:
 
-For Task 1 & 2:
+#### For Task 1 & 2:
 
 1) Download the Submission. The code file for this task is called, `Task1_2Demo.py`. 
 
@@ -45,12 +50,10 @@ a) Open Google Colab, upload the test_sentence.txt
 
 b) Import the Task1_2Demo.ipynb on Colab. You should be able to run all the tasks.
 
-c) The Notebook Link is:
-
-"https://colab.research.google.com/drive/1gNE2BdGURa12U1-2Ai8JZEyXkeAyUXG9?usp=sharing"
+c) The Notebook Link is clickable [here:](https://colab.research.google.com/drive/1gNE2BdGURa12U1-2Ai8JZEyXkeAyUXG9?usp=sharing)
 
 
-For Task 3:
+#### For Task 3:
 
 1) Open the IDE of your choice. And run the Command `python -m spacy download en_core_web_sm`
 
